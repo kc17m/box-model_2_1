@@ -16,7 +16,7 @@ p, ul, ol {
 }
 
 h1 {    
-    border: 1px dotted rgb(219, 170, 219);
+    border: 1px dashed rgb(219, 170, 219);
     border-radius: 30px;
     padding: 5px 20px;
     
@@ -29,7 +29,7 @@ p {
 
 h2 {
     border: 1px solid rgb(143, 33, 194);
-    border-radius: 30px;
+    border-radius: 12px;
     box-shadow: 0 0 15px rgb(197, 154, 206);
     padding: 2px;
     
