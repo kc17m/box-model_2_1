@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 10px 140px;
+}
+
+p, ul, ol {
+    margin: 20px 200px;;
+}
+
+h1 {    
+    border: 1px dotted rgb(219, 170, 219);
+    border-radius: 30px;
+    padding: 5px 20px;
+    
+}
+
+p {
+    border: 1px solid tomato;
+    padding: 10px;
+}
+
+h2 {
+    border: 1px solid rgb(143, 33, 194);
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(197, 154, 206);
+    padding: 2px;
+    
+}
+
+ul, ol {
+    border: 1px solid rgba(231, 164, 64, 0.767);
+    padding: 20px 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(236, 129, 174);
+    text-decoration-thickness: 2px;
+}
+
+h3 {
+    border: 8px double darkorchid;
+    border-radius: 12px;
+    padding: 5px;
+    
+}
