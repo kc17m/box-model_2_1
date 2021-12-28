@@ -38,9 +38,13 @@ h2 {
 ul, ol {
     border: 1px solid rgba(231, 164, 64, 0.767);
     padding: 20px 50px;
-    text-decoration: underline;
+    /* text-decoration: underline;
     text-decoration-color: rgb(236, 129, 174);
-    text-decoration-thickness: 2px;
+    text-decoration-thickness: 2px; */
+}
+
+li {
+    border-bottom: 1px solid rebeccapurple;
 }
 
 h3 {
